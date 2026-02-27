@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "拙い愛を君だけに",
+  "base_artist": "荒木一仁",
+  "createdAt": "2026-02-27T04:10:25.883946Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "拙い愛を君だけに",
+      "artist": "荒木一仁",
+      "has_synced": false,
+      "path": "select/pl_01_拙い愛を君だけに_荒木一仁.txt"
+    }
+  ]
+}
